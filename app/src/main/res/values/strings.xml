@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RingIt</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+</resources>

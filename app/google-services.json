@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484774041041",
+    "firebase_url": "https://ringit-8cebd.firebaseio.com",
+    "project_id": "ringit-8cebd",
+    "storage_bucket": "ringit-8cebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484774041041:android:dff6097bb44c5e79e93cf0",
+        "android_client_info": {
+          "package_name": "com.example.ringit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484774041041-5al5iq67j8keqet2j9s14o2dnut83haq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ringit",
+            "certificate_hash": "df07ea1b855c47b1cddadc987a2dbfe53ab14666"
+          }
+        },
+        {
+          "client_id": "484774041041-ol0kq19isiemsjtpkqg6jpl388qnr2sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcmKB3dLNtabwSYFUGoU6Yw5mKLH4fOYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484774041041-ol0kq19isiemsjtpkqg6jpl388qnr2sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
